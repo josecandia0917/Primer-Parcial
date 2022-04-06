@@ -1,0 +1,9 @@
+# Primer-Parcial
+Primer Parcial
+
+
+Nombre: JOSE MAMANI CANDIA
+CI: 9072151 LP
+CELULAR: 71288239
+
+PRIMER PARCIAL
